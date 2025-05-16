@@ -19,3 +19,14 @@
   font-size: 1rem;
   color: #333;
 }
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+.navbar a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
