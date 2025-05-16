@@ -30,3 +30,11 @@
   margin: 0 15px;
   text-decoration: none;
 }
+
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
